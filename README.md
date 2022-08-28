@@ -4,7 +4,7 @@ A sample project to follow when building a program for class.
 
 ## Requirements
 
-In order to run or bundle the source the following requirements are needed.
+In order to run or build source code, the following requirements are needed.
 
 - An IDE such as [Visual Studio Code](https://code.visualstudio.com/).
 - Java Development Kit (JDK) such as [OpenJDK](https://adoptopenjdk.net/).
